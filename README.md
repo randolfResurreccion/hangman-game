@@ -12,7 +12,7 @@ npm install
 
 ### Compiles and reloads for development
 ```
-npm run dev-server
+npm run start
 ```
 
 ### Compiles and minifies for production
