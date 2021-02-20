@@ -21,6 +21,5 @@ npm run build
 ```
 
 ## Check the game here
-```
+
 https://randolfresurreccion.github.io/hangman-game/
-```
